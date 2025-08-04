@@ -54,6 +54,6 @@ To clean and preprocess a real-world healthcare dataset by addressing missing va
 | Duplicates Removed | 0 |
 | Null Values Remaining | 0 |
 | Renamed Columns | Yes |
-| Standardized gender/no_show | Yes |
+| Standardized `gender/no_show` | Yes |
 | Dates Converted | Yes |
 | Negative Ages Removed | Yes |
